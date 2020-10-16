@@ -1,0 +1,24 @@
+.container {
+    max-width: 15%;
+    margin: 15% auto;
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.border-green {
+    border: 1px solid green;
+}
+
+.border-red {
+    border: 1px solid red;
+}
